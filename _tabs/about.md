@@ -9,7 +9,7 @@ title:  "About Dungeon Keys"
 
 <div style="color:#eb5e28;font-weight:500;font-size:20px">1. Discesa nella tomba</div> 
 <div style="margin-bottom:5px;"><b>Dungeon Keys</b> è un blog dedicato al gioco di ruolo e d'avventura. Sarebbe più veloce dire <b>OSR</b> e lasciare a chi legge l'incombenza di googlarsi <i>Old School Renaissance</i>, ma a quel punto potremmo dire lo stesso di <i>NuSR</i>, di <i>NoArtPunk</i>, di <i>FKR</i>... Vada per gioco d'avventura, quindi. Si capisce lo stesso.</div>
-<div style="color:#ccc5b9;margin-bottom:15px;">Proin ornare rutrum metus, ac convallis diam volutpat sit amet.</div>
+<div style="color:#ccc5b9;margin-bottom:15px;">Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Test 2.</div>
 
 <div style="color:#eb5e28;font-weight:500;font-size:20px">2. Stanza</div> 
 <div style="margin-bottom:0px;">Gli efferati delitti che regolarmente si consumano su questo blog hanno per unico colpevole <b>@CrawlingChaox</b> (Luca Ambrogiani).</div>
