@@ -23,7 +23,7 @@ title:  "About Dungeon Keys"
 
 <div style="color:#eb5e28;font-weight:500;font-size:20px">4. Stanza</div> 
 <div style="margin-bottom:0px;">Eccetto quando esplicitamente menzionato, i post di questo blog sono da ritenersi sotto i termini di licenza Creative Commons Attribution 4.0 International (CC BY 4.0).</div>
-<div style="margin-bottom:5px;"><b>Dungeon Keys</b> aderisce alla <b><a href="http://tinyurl.com/resistenzagdr">Resistenza GDR</a></b> in supporto all'accessibilità dell'hobby. I contenuti del blog sono gratuiti: niente pubblicità, nessuna raccolta di dati.</div>
+<div style="margin-bottom:5px;"><b>Dungeon Keys</b> aderisce alla <b><a href="https://bit.ly/resistenzagdr">Resistenza GDR</a></b> in supporto all'accessibilità dell'hobby. I contenuti del blog sono gratuiti: niente pubblicità, nessuna raccolta di dati.</div>
 <div style="color:#ccc5b9;margin-bottom:15px;">Proin ornare rutrum metus, ac convallis diam volutpat sit amet.</div>
 
 <div style="color:#eb5e28;font-weight:500;font-size:20px">5. Stanza</div> 
