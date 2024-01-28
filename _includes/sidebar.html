@@ -1,0 +1,162 @@
+<!-- The Side Bar -->
+
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+  <header class="profile-wrapper">
+    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
+      {% if site.avatar != empty and site.avatar %}
+        {% capture avatar_url %}
+            {% if site.avatar contains '://' %}
+              {{ site.avatar }}
+            {% elsif site.img_cdn != empty and site.img_cdn %}
+              {{ site.avatar | prepend: site.img_cdn }}
+            {% else %}
+              {{ site.avatar | relative_url }}
+            {% endif %}
+          {% endcapture %}
+        <img src="{{ avatar_url | strip }}" width="300" height="300" alt="avatar" onerror="this.style.display='none'">
+      {% endif %}
+    </a>
+<!--
+    <h1 class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </h1> 
+-->
+    <p id="randtag" class="site-subtitle fst-italic mb-0"> </p>  <!-- {{ site.tagline }} -->
+      <script type="text/javascript">
+      (() => {
+       const tagLineElement = document.querySelector("#randtag");
+        if (!tagLineElement) return;
+
+        const tagLines = [
+          "Casa dell'Obeso Stupido Ratto.",
+          "Casa dell'hex crawling.",
+          "Casa del dungeon crawling.",
+          "Strani fuochi sulle colline...",
+          "It is dangerous to go alone.",
+          "Ombra e fiamme.",
+          "I Nani hanno scavato troppo.",
+          "Un blog ad alta mortalità.",
+          "Un blog di livello 1.",
+          "Un blog con XP per gold.",
+          "Un blog con race as class.",
+          "Un blog compatibile con B/X.",
+          "Un blog di Legge e Caos.",
+          "Un blog, certo non un Mimic.",
+          "1d66 taglines casuali.",
+          "Tirate iniziativa.",
+          "Tiro Salvezza contro veleno.",
+          "Tiro Salvezza contro paralisi.",
+          "Parola del potere: diegetico.",
+          "Parola del potere: Kickstarter.",
+          "O maiali o morte!",
+          "... ma non era roll-under?",
+          "Ragazzi, ho finito le torce.",
+          "Oh no, un altro GLOG.",
+          "Oh yeah, un altro GLOG!",
+          "Fulgido è il volo del falco.",
+          "Ci stava già goblin punch.",
+          "Ci stava già ten foot pole.",
+          "Ora compatibile con SCRAPCAT!",
+          "Presto su KS: Dungeon Keys 2e!",
+          "Guardate, Jim Raggi vestito!",
+          "No, non vedi trappole qui.",
+          "Un passaggio segreto!",
+          "Un altro passaggio segreto!",
+          "Tagline: 1HD, armor as leather.",
+          "Tranquilli: ho un piano.",
+          "Ah ma stasera c'era sessione?",
+          "Magistratura Gygaxiana.",
+          "Agisce col favore delle tenebre.",
+          "Strict time records MUST be kept.",
+        ];
+
+        tagLineElement.innerText =
+          tagLines[Math.floor(Math.random() * tagLines.length)];
+      })()
+      </script>
+  </header>
+  <!-- .profile-wrapper -->
+
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
+    <ul class="nav">
+      <!-- home -->
+      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-home"></i>
+          <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
+        </a>
+      </li>
+      <!-- the real tabs -->
+      {% for tab in site.tabs %}
+        <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+          <a href="{{ tab.url | relative_url }}" class="nav-link">
+            <i class="fa-fw {{ tab.icon }}"></i>
+            {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+
+            <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+          </a>
+        </li>
+        <!-- .nav-item -->
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+    {% unless site.theme_mode %}
+      <button type="button" class="mode-toggle btn" aria-label="Switch Mode">
+        <i class="fas fa-adjust"></i>
+      </button>
+
+      {% if site.data.contact.size > 0 %}
+        <span class="icon-border"></span>
+      {% endif %}
+    {% endunless %}
+
+    {% for entry in site.data.contact %}
+      {% case entry.type %}
+        {% when 'github' %}
+          {%- capture url -%} 
+            https://{{ site[entry.type].username }}.itch.io/
+          {%- endcapture -%}
+        {% when 'twitter' %}
+          {%- capture url -%}
+            https://t.me/{{ site[entry.type].username }}
+          {%- endcapture -%}
+        {% when 'email' %}
+          {% assign email = site.social.email | split: '@' %}
+          {%- capture url -%}
+            javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+          {%- endcapture -%}
+        {% when 'rss' %}
+          {% assign url = '/feed.xml' | relative_url %}
+        {% else %}
+          {% assign url = entry.url %}
+      {% endcase %}
+
+      {% if url %}
+        <a
+          href="{{ url }}"
+          aria-label="{{ entry.type }}"
+          {% assign link_types = '' %}
+
+          {% unless entry.noblank %}
+            target="_blank"
+            {% assign link_types = 'noopener noreferrer' %}
+          {% endunless %}
+
+          {% if entry.type == 'mastodon' %}
+            {% assign link_types = link_types | append: ' me' | strip %}
+          {% endif %}
+
+          {% unless link_types == empty %}
+            rel="{{ link_types }}"
+          {% endunless %}
+        >
+          <i class="{{ entry.icon }}"></i>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <!-- .sidebar-bottom -->
+</aside>
+<!-- #sidebar -->
