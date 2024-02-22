@@ -10,6 +10,9 @@ hidden: true # true: esclude dalla home (ma si trova ancora nel resto del sito)
 published: true # false: esclude il post dalla pubblicazione in toto (si visualizza in locale così: jekyll serve --unpublished)
 ---
 
+> Questo post contiene reference per la formattazione dei post su Jekyll. 
+> Rimarrà qui ad imperitura memoria del fatto che, nell'informatica, nulla è semplice come sembra.
+
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
