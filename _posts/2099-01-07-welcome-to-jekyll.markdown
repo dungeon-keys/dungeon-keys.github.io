@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post 0: Typography"
-date:   2024-01-07 12:00:00 +0100
+date:   2099-01-07 12:00:00 +0100
 categories: jekyll update
 image:
   path: /assets/img/favicons/android-chrome-512x512.png
