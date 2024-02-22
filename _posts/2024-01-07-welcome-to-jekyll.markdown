@@ -7,7 +7,7 @@ image:
   path: /assets/img/favicons/android-chrome-512x512.png
   alt: Immagine del post.
 hidden: false # true: esclude dalla home (ma si trova ancora nel resto del sito)
-published: true # false: esclude il post dalla pubblicazione in toto (si visualizza in locale così: jekyll serve --unpublished)
+published: false # false: esclude il post dalla pubblicazione in toto (si visualizza in locale così: jekyll serve --unpublished)
 ---
 
 Jekyll requires blog post files to be named according to the following format:
