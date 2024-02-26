@@ -15,7 +15,7 @@ published: true # false: esclude il post dalla pubblicazione
 
 ## Parties & Planners 
 
-*Guida rapida per murderhobos all’organizzazione di festival, matrimoni ed eventi mondani*
+<span style="color:#EB5E28">*Guida rapida per murderhobos all’organizzazione di festival, matrimoni ed eventi mondani*</span>
 
 Tra un'avventura e l'altra, può capitare che gli avventurieri (da cialtroni maledetti quali sono) vogliano mettersi un po' in mostra e partecipare a tornei d'arme, gare di tiro con l’arco o magari a una gara di rutti. Questo è uno dei trope del gioco tradizionale: il manuale dei *Forgotten Realms* per la terza edizione suggeriva addirittura di cominciare le campagne durante le festività dello Shieldmeet. Ma è sufficente che il vostro regolamento abbia una tabella per il cosiddetto *carousing* che—voilà!—le feste sono ora una parte integrante della campagna. 
 
@@ -135,13 +135,13 @@ key color</span>**, si tratta del ruolo chiave, ovvero di qualcosa che non può 
 Ecco una breve descrizione per dieci ruoli già pronti. Come sempre, nulla impedisce di aggiungerne altri.
 
 Arbitro
-: Giudice in una competizione, dal ballo al tiro con l’arco, passando per la classica corsa nei sacchi mentre si porta in spalla una capra zoppa.
+: Giudice in una competizione, dal ballo al tiro con l’arco passando per la classica corsa nei sacchi mentre si porta in spalla una capra zoppa.
 
 Addetto alla sicurezza
 : Volgarmente, il capo dei buttafuori. Detto anche “il tizio dalla pazienza scarsa e dalle mani ruvide”.
 
 Capo cuoco
-: Cucinare per un reggimento richiede un altro reggimento, quello dei cuochi, tra le cui fila figurano a mo’ di valchirie schiere di anziane rotondette.
+: Cucinare per un reggimento richiede un altro reggimento: quello dei cuochi, tra le cui fila figurano (a mo’ di valchirie) schiere di anziane rotondette.
 
 Comunicatore
 : Saper spargere la voce è più che un’arte: è un dono. Chi lo possiede può moltiplicare gli occhi puntati sull’evento. Miracolo.
@@ -159,10 +159,10 @@ Officiante
 : Per le occasioni più solenni, serve un discorso in grado di infiammare gli animi e strangolare gli sbadigli.
 
 Sacerdote
-: Un officiante con un qualche dio dalla sua. E gli dei, si sa, son festaioli come pochi.
+: Un officiante con un qualche dio dalla sua. E gli dei, si sa, son festaioli.
 
 Tecnico
-: Colui che si assicura che il palco non cada a pezzi mentre l’ORK-hestra dei Grüneskine ci va giù durissimo.
+: Colui che si assicura che il palco non cada a pezzi mentre l’ORK-estra dei Grüneskine ci va giù durissimo.
 
 A ogni personaggio coinvolto nell’organizzazione della festa è richiesto di svolgere i compiti suggeriti dal suo ruolo, secondo quanto previsto dal regolamento che state utilizzando e niente più di questo. Ciò che ci interessa, qui, è l’evento stesso, e naturalmente le possibili catastrofi.
 
@@ -188,24 +188,24 @@ Il *risultato più alto ottenuto da un singolo dado* determina la presenza di ev
 
 Infine, *se un ruolo necessario non è stato ricoperto da nessun personaggio*, il tiro relativo a quel ruolo sarà di 2d6. Tra questi dadi si sceglierà, però, il risultato più basso.
 
-In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto per determinare al volo quale ostacolo porre dinnanzi al gruppo—anzi, al party propriamente detto. Le tabelle sono divise per ruoli, così che ogni giocatore possa avere un ruolo attivo nello screw-up del proprio personaggio. Ah, molte voci sono volutamente umoristiche e paradossali: sta a voi sostituire quelle che non si adattano al tono della vostra campagna.
+In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto per determinare al volo quale ostacolo porre dinnanzi al gruppo—anzi, al party propriamente detto. Le tabelle sono divise per ruoli, così che ogni giocatore possa avere un ruolo attivo nello screw-up del proprio personaggio. Le voci sono paradossali o del tutto sceme: se il tono non è adatto, ci sarà da cambiare qualcosa.
 
 #### Arbitro
 
 |  d6 | Complicazioni                 |
 |:---:|:------------------------------|
-|  1  | Qualcuno contesta il tuo giudizio sulla base di un precedente che ovviamente ti sembra del tutto <br> assurdo e inventato di sana pianta. |
-|  2  | Il tuo fischietto a quanto pare non fa rumore. Però sembra infastidire i cani.  |
+|  1  | Qualcuno contesta il tuo giudizio sulla base di un precedente che ti sembra del tutto <br> assurdo e inventato di sana pianta. |
+|  2  | A quanto pare, il tuo fischietto non fa rumore. Però sembra infastidire i cani.  |
 |  3  | Fra i partecipanti c’è uno strano individuo, molto alto e con un lungo cappotto, che barcolla <br> dappertutto.  |
 |  4  | Ormai da un po’ tra i partecipanti alla gara si aggira un grosso energumeno. Non ha la maglia <br> di nessuna fazione. Tutti gli altri fanno finta di non notarlo. |  
-|  5  | A quanto pare devi ammonire un atleta con dei fan molto, molto aggressivi.  |  
+|  5  | Ti tocca ammonire un atleta con dei fan molto, molto aggressivi.  |  
 |  6  | Dal pubblico si alza una voce che mette sonoramente in dubbio la fedeltà del tuo coniuge. <br> Poi un’altra. E poi un’altra ancora. | 
 
 |  d6 | Disastri                 |
 |:---:|:-------------------------|
 |  1  | Qualcuno di molto influente, direi quasi altolocato, ti offre una mazzetta. |
 |  2  | Ti rendi conto troppo tardi che il regolamento di questa competizione applica una variante locale <br> semi-sconosciuta. Ignori almeno la metà delle regole |
-|  3  | La squadra perdente insorge. Parliamo proprio di barricate, proclami e inni alla libertà. |
+|  3  | La squadra perdente insorge. Parliamo proprio di barricate, proclami, inni alla libertà. |
 |  4  | Un’irritazione all’occhio sinistro ti ha reso incapace di percepire la profondità. <br> Meglio che gli atleti non vengano a saperlo. |
 |  5  | Il premio destinato alla squadra vincente sembra essere svanito nel nulla. <br> Gli atleti pretendono un compenso. Ora. |
 |  6  | Non trovi più i cartellini gialli e rossi. Speriamo che i giocatori non si accorgano che oggi, <br> fondamentalmente, tutto è concesso. |
@@ -226,7 +226,7 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 |  1  | È scoppiata una rissa tra tifoserie rivali. Uno dei tizi è vestito da Guerriero del Caos. |
 |  2  | La buona notizia è che non è vero che c’è una bomba. La cattiva è che ce ne sono due. |
 |  3  | Qualcuno ha liberato una bestia dal serraglio. Ha le ali e sputa fuoco. |
-|  4  | È da un’ora che state cercando la mamma di un bambino. Ma più passa il tempo e più il bambino <br> sembra un halfling in vena di scherzi. |
+|  4  | È da un’ora che state cercando la mamma di un bambino. Più passa il tempo e più il bambino <br> sembra un halfling in vena di scherzi. |
 |  5  | Qualcuno ha liberato dei maiali numerati tra la folla. Avete recuperato i numeri 1, 2 e 4. |
 |  6  | L’ospite d’onore viene trafitto da un quadrello di balestra tirato da non si sa dove. |
 
@@ -237,14 +237,14 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 |  1  | Un ignoto simpaticone sta andando in giro a scambiare sale e zucchero. |
 |  2  | Proprio oggi è il primo giorno di Louis Masingus, il nipote del Conte. Ovviamente non sa fare un cazzo, <br> ma per qualche ragione è stato promosso ad Assistente Chef. |
 |  3  | L’ospite d’onore richiede la presenza al tavolo di una spezia esotica che non hai mai sentito nominare. |
-|  4  | Il formaggio non ha i vermi. |
-|  5  | Pare che una strega abbia rinforzato il contenuto di due boccali con un… filtro d’amore. | 
+|  4  | Il formaggio coi vermi non ha i vermi. |
+|  5  | Pare che una strega abbia rinforzato il contenuto di due boccali con un filtro d’amore. | 
 |  6  | Sospetti che il nuovo bravissimo cuoco sia in realtà controllato da un topo. | 
 
 |  d6 | Disastri                      |
 |:---:|:------------------------------|
-|  1  | Il vino sa di tappo. Tutto. e sa di tappo pure la birra. |
-|  2  | Siamo alla seconda portata, e i commensali hanno assunto un colorito verdastro. |
+|  1  | Il vino sa di tappo. Tutto. Sa di tappo pure la birra. |
+|  2  | Siamo alla seconda portata e i commensali hanno assunto un colorito verdastro. |
 |  3  | Ti rendi conto troppo tardi che in questo paese il cinghiale è un animale sacro. |
 |  4  | Siamo quasi al dolce, e gli ospiti sono convinti che siamo ancora all’antipasto. |
 |  5  | Quello non era origano. E ora gli ospiti hanno più fame di prima. |
@@ -254,9 +254,9 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 
 |  d6 | Complicazioni                 |
 |:---:|:------------------------------|
-|  1  | Proprio oggi lo strillone ha il mal di gola. |
+|  1  | Proprio oggi lo strillone ha mal di gola. |
 |  2  | La ipografia usa cara eri mobili e oggi gli si è ro a la lettera . Nien e volan ini o manifes i <br>  pubblici ari. |
-|  3  | La pioggia ha reso illeggibili i volantini. |
+|  3  | La pioggia ha reso illeggibili tutti i volantini. |
 |  4  | Uno sparviere sta facendo fuori tutti i corvi messaggeri, tanto da essersi guadagnato il <br> soprannome “Barone Rosso”. | 
 |  5  | Il messaggero che hai pagato per spargere la voce nel circondario è tornato con un occhio nero. |
 |  6  | Qualcuno ha confuso la data del Giorno dei Pirati con quella dell’evento. Fin troppi ospiti <br> si presentano con un uncino finto e una benda all’occhio. |
@@ -299,7 +299,7 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 |  3  | Questi spettatori sono completamente anestetizzati. Devi trovare qualcosa che li faccia reagire! |
 |  4  | Forse gli artisti non sono d’accordo con la tua selezione delle canzoni: continuano a chiamare il concerto <br> il Festival di San Scemo. |
 |  5  | Un goblin sta lasciando in giro libretti falsi, dove il testo delle canzoni è stato pesantemente alterato. |
-|  6  | Il cantante rifiuta di esibirsi se prima non gli portano un cocktail chiamato Dori Dori Summer Apple Special, <br> come da contratto. Tu manco sapevi ci fosse un contratto. |
+|  6  | Il cantante rifiuta di esibirsi se prima non gli portano un Dori Dori Summer Apple Special, <br> come da contratto. Tu manco sapevi ci fosse un contratto, men che meno del Dori Dori. |
 
 |  d6 | Disastri                      |
 |:---:|:------------------------------|
@@ -315,7 +315,7 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 |  d6 | Complicazioni                 |
 |:---:|:------------------------------|
 |  1  | Un tuo rivale sta vendendo merce contraffatta a prezzi stracciati. |
-|  2  | A quanto pare una legge recente impone una tassa pari alla metà del quinto del rogito erogato <br> il mese antecedente alla richiesta del lotto per l’affitto del suolo entro e non oltre il … |
+|  2  | A quanto pare una legge recente impone una tassa pari alla metà del quinto del rogito erogato <br> il mese antecedente alla richiesta del lotto per l’affitto del suolo entro e non oltre il ... |
 |  3  | Hai molto sottovalutato la richiesta di fermacarte da collezione. Tutti ne vogliono uno. <br> Li hai finiti almeno mezz’ora fa. |
 |  4  | I venditori non riescono ad accordarsi sulla posizione delle bancarelle. Tutti vogliono stare <br> al centro della piazza. Stanno per arrivare alle mani. | 
 |  5  | Di recente l’intera zona è stata colpita da una pesante inflazione, e tutti insistono per pagarti <br> con secchiate di monete. | 
@@ -364,10 +364,10 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 |  d6 | Disastri                      |
 |:---:|:------------------------------|
 |  1  | Un tecnicismo teologico nella tua ultima omelia ha fatto alzare più d’un sopracciglio, e oggi <br> tra il pubblico noti un inquisitore molto interessato. |
-|  2  | Non appena termini la frase “…parli ora oppure taccia per sempre,” si levano almeno una dozzina <br> di voci. |
+|  2  | Non appena termini la frase “...parli ora oppure taccia per sempre,” si levano almeno una dozzina <br> di voci. |
 |  3  | Una persona si aggira tra la folla con suo figlio, raccontando a tutti che il bambino è anche tuo. <br>  È la prima volta che li vedi. |
 |  4  | Non sarebbe strano pensare che tutta quell’acqua appena diventata sangue possa rappresentare <br> un segno di avversità da parte del tuo dio. |
-|  5  | Capisco perdere anelli, croci, tiare, aspersori… ma un altare? Come si fa a perdere un altare!? |
+|  5  | Capisco perdere anelli, croci, tiare, aspersori... ma un altare? Come si fa a perdere un altare!? |
 |  6  | A sorpresa, un emissario divino si è unito alle celebrazioni. Sospetti che sia qui per assicurarsi <br> che il rituale venga rispettato alla lettera. |
 
 #### Tecnico
@@ -384,7 +384,7 @@ In presenza di complicazioni o disastri, fate riferimento alle tabelle qui sotto
 |  d6 | Disastri                      |
 |:---:|:------------------------------|
 |  1  | I tendoni non sono stati montati bene. E ora sta letteralmente piovendo sul bagnato. |
-|  2  | Erano previsti dei fuochi d’artificio, e tu l’hai saputo solo quando il deposito è esploso <br> in una nube di fumo e scintille colorate. |
+|  2  | Erano previsti dei fuochi d’artificio. L’hai saputo solo quando il deposito è esploso <br> in una nube di fumo e scintille colorate. |
 |  3  | Pensavi di aver fatto il colpaccio quando hai trovato quella pergamena delle illusioni. <br>  Ma era una pergamena delle evocazioni. |
 |  4  | Tutti i lucchetti e le serrature che hai commissionato per l’evento si aprono con la <br> stessa chiave. È scomparsa. |
 |  5  | L’assistente meccanico che hai messo a punto per aiutarti nelle preparazioni è diventato <br> senziente. Se non gli costruisci subito una compagna, distruggerà tutto ciò che ami. |
