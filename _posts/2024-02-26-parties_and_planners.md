@@ -7,7 +7,7 @@ tags: [carnevale]
 published: true # false: esclude il post dalla pubblicazione 
 ---
 
-> Correva l'anno Ventuno di nostra vita. Le menti più audaci e perverse dell'italica comunità *Oh-eS-aR* si riunirono in gran segreto per cospirare. Tanto forte cospirarono che nacque il **[Vecchio Carnevale Blogghereccio](https://carnevale.itch.io/vecchio-carnevale-blogghereccio)**: una raccolta di contenuti a tema, con tema .[^fn-1]
+> Correva l'anno Ventuno di nostra vita. Le menti più audaci e perverse dell'italica comunità *Oh-eS-aR* si riunivano in gran segreto per cospirare. Tanto forte la cospirazione che nacque il **[Vecchio Carnevale Blogghereccio](https://carnevale.itch.io/vecchio-carnevale-blogghereccio)**: una raccolta di contenuti a tema, con tema .[^fn-1]
 
 > Al tempo avevo un blog sul gioco di ruolo in lingua inglese tenuto su a scotch e sputi, vale a dire aggiornato poco e male. Il Carnevale rappresentava al contempo uno stimolo a riprendere a fare roba e l'inizio della fine: un post di rottura con il passato, scritto in italiano su un blog in inglese. Un pomodoro in un campo di patate. Decisi di buttare giù qualcosa ugualmente: l'Altare del Caos Strisciante aveva fatto il suo tempo. 
 
