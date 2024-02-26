@@ -2,9 +2,9 @@
 layout: post
 title:  "Parties & Planners"
 date:   2024-02-26 23:30:00 +0100
-categories: [OSR, Blog]
+categories: [OSR, tabelle casuali]
 tags: [carnevale]
-published: true # false: esclude il post dalla pubblicazione in toto (si visualizza in locale così: jekyll serve --unpublished)
+published: true # false: esclude il post dalla pubblicazione 
 ---
 
 > Correva l'anno Ventuno di nostra vita. Le menti più audaci e perverse dell'italica comunità *Oh-eS-aR* si riunirono in gran segreto per cospirare. Tanto forte cospirarono che nacque il **[Vecchio Carnevale Blogghereccio](https://carnevale.itch.io/vecchio-carnevale-blogghereccio)**: una raccolta di contenuti a tema, con tema .[^fn-1]

@@ -5,7 +5,7 @@ date:   2024-02-22 21:00:00 +0100
 categories: [Dungeon Keys, Blog]
 image:
   path: /assets/img/dktitlewide.png
-published: true # false: esclude il post dalla pubblicazione in toto (si visualizza in locale così: jekyll serve --unpublished)
+published: true # false: esclude il post dalla pubblicazione 
 ---
 
 > « Se mi è concesso riferirmi a tempi ormai lontani, è anche l'anniversario del mio arrivo a Esgaroth sul Lago Lungo, in una botte. In quell'occasione dimenticai completamente che era il giorno del mio compleanno. »
