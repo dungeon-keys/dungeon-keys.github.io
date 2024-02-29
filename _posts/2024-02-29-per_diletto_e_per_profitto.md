@@ -4,7 +4,7 @@ title:  "Per diletto e per profitto"
 date:   2024-02-29 14:00:00 +0100
 categories: [OSR, House Rules]
 tags: [ladro, system-agnostic]
-published: false # false: esclude il post dalla pubblicazione 
+published: true # false: esclude il post dalla pubblicazione 
 ---
 
 ...ma soprattutto per profitto.
