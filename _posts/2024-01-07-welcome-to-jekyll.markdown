@@ -13,17 +13,6 @@ published: true # false: esclude il post dalla pubblicazione in toto (si visuali
 > Questo post contiene reference per la formattazione dei post su Jekyll. 
 > Rimarrà qui ad imperitura memoria del fatto che, nell'informatica, nulla è semplice come sembra.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-`YEAR` is a four-digit number
-`MONTH` is a two-digit number
-`DAY` is a two-digit numbers
-`MARKUP` is the file extension representing the format used in the file (`.md` or `.markdown`). 
-
-After that, include the necessary front matter.
-
 ## Headings
 
 # H1 - heading
@@ -128,7 +117,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 ## Video
 
-{% include embed/youtube.html id='Balreaj8Yqs' %}
+{% include embed/youtube.html id='2lS_Y-aNJwk' %}
 
 ## Reverse Footnote
 

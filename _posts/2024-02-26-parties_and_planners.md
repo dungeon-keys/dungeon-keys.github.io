@@ -3,7 +3,7 @@ layout: post
 title:  "Parties & Planners"
 date:   2024-02-26 23:30:00 +0100
 categories: [OSR, tabelle casuali]
-tags: [carnevale]
+tags: [carnevale, system-agnostic]
 published: true # false: esclude il post dalla pubblicazione 
 ---
 
