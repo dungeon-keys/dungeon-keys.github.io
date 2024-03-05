@@ -117,7 +117,7 @@ Serrature combinate
 
 Avere valori di 1 e 2, uno sopra l'altro, significa che il ladro deve raggiungere un totale di 12+ (6+ e 6+) per quel pin. In questo caso, dato che i valori di partenza sono 1 e 2, la base del pin è 3, quindi bisogna aggiungere dadi dal tiro per un valore di 9 o più! Meglio cercarsi qualche ferro di qualità.
 
-### In chiusura
+## In chiusura
 
 Ecco fatto. Un mini-gioco di effrazione, dalla semplicità regolabile, per tutti quei personaggi tradizionalmente meno rispettosi della proprietà privata. 
 
@@ -125,7 +125,7 @@ Non offro una guida al bilanciamento delle serrature perché penso davvero che u
 
 Fatemi sapere!
 
-#### Illustrazioni
+### Illustrazioni
 
 Arthur Rackham
 : in T. Ingoldsby, *The Ingoldsby legends; or, Mirth & marvels*. London, New York: E. P. Dutton & Co., J. M. Dent & Co., 1907. Pubblico dominio.
