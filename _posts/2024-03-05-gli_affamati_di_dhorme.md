@@ -6,7 +6,6 @@ categories: [OSR, Adventure Seeds]
 tags: [BX, cultisti, ragni]
 image:
   path: /assets/img/adventure-header.png
-published: true # false: esclude il post dalla pubblicazione 
 ---
 
 > Con questo post, ultima traduzione dal vecchio blog[^fn-1], inauguriamo anche la categoria <span style="color:#EB5E28">**Adventure Seeds**</span>. Non avventure fatte e finite, ma spunti giocabili da espandere, alterare, saccheggiare. Un crocevia un po' improvvisato tra adventure design e suggestioni varie.
