@@ -15,10 +15,11 @@ In questo caso, gli amici fagiani del **Kraken** (lo so, strano incrocio) mi han
 
 E ho anche vinto il **<span style="color:#EB5E28">one page contest</span>**! Per un soffio, è chiaro. 
 
-Questo è **[Spark & Soot](https://drive.google.com/file/d/14TWQGyA9gEnJY1CrBu0BYqgVZcCZnYV9/view?usp=sharing "Link a GDrive!")**, un gioco di ruolo steampunk di borghesia *steam* e proletariato *punk*. O di borghesia *punk* e proletariato *steam*. Insomma, vedete voi, quello è parte del divertimento. Non è un gioco propriamente OSR, però tenete presente che il goblin non casca mai lontano dall'albero. 
+Potete trovare qui **[Spark & Soot](https://www.krakengdr.it/ottone-miraggi-e-vapore/ "Link al Kraken!")**, un gioco di ruolo steampunk di borghesia *steam* e proletariato *punk*. O di borghesia *punk* e proletariato *steam*. Insomma, vedete voi, quello è parte del divertimento. Non è un gioco propriamente OSR, però tenete presente che il goblin non casca mai lontano dall'albero. 
 
-Immagino che a una certa verrà pubblicato anche su qualche lido sorvegliato dal Kraken. Quando succederà, editerò questo post con il link corretto. Nel frattempo, potete giocarci, modificarlo, costruirci sopra. Come sempre, insomma.
-Grazie all'inossidabile giuria per aver guardato il potenziale oltre le mie pessime illustrazioni. E grazie anche a chi lo proverà! 
+Ma soprattutto, seguendo il link potete trovare anche tutte le contribution degli altri autori, e sono fighe per davvero. Segnalo **<span style="color:#EB5E28">Rondo of the Chauchat</span>** di Luca Negri, che sta pure a questo **[link](https://luca-negri.itch.io/rondo-of-the-chauchat "Su itch.io!")**.
+
+Grazie di nuovo all'inossidabile giuria per aver visto del potenziale oltre le mie pessime illustrazioni. E grazie anche a chi lo proverà, fatemi sapere! 
 
 Al prossimo post, probabilmente con una sorpresa dagli occhi a clessidra.
  
