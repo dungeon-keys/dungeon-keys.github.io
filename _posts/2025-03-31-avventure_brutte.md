@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Troppe Avventure Brutte: Metodo per la scrittura di avventure"
-date:   2025-03-31 00:10:00 +0200
+date:   2025-03-30 00:10:00 +0200
 categories: [OSR, Reblogged]
 tags: [avventura, design, traduzione]
 ---
