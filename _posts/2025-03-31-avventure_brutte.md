@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Troppe Avventure Brutte: Metodo per la scrittura di avventure"
-date:   2025-03-30 00:10:00 +0200
-categories: [OSR, Reblogged]
-tags: [avventura, design, traduzione]
+title: 'Troppe Avventure Brutte: Metodo per la scrittura di avventure'
+date: '2025-03-30 00:10:00 +0200'
+categories:
+  - OSR
+  - Reblogged
+tags:
+  - avventura
+  - design
+  - traduzione
 ---
 
 Ecco un post un po' strano. Si tratta di consigli per scrivere un'avventura, e nello specifico parliamo di *dungeon/location based adventure design*. Non scendiamo dei dettagli, però, ma solo del processo. Di recente ho ripreso a leggere avventure pubblicate e devo dire che non ne sono rimasto particolarmente impressionato. Forse non a caso, le raccomandazioni che vedo sempre più spesso negli spazi Post-OSR (spesso chiamati solo OSR) si concentrano per la maggior parte su avventure parecchio vecchie, dall'epoca TSR. Eppure in questo periodo stanno venendo alla luce avventure per regolamenti come OSE, Cairn e altro ancora a ritmi mai visti prima...
